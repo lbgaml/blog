@@ -1,0 +1,6 @@
+* Introduction
+  This is the life.[fn:1]
+
+* Bibliography
+
+[fn:1] [@Williams2001aa, 74]
